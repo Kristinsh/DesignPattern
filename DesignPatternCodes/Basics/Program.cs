@@ -6,7 +6,7 @@ namespace DesignPatternCodes.Basics
 {
     class Program
     {
-        static void Main()
+        static void MainFunction() //Change to Main
         {
             A objA = new A();   //Can only use objA
             objA.AMethod();
