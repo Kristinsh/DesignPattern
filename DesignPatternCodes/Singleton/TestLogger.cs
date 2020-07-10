@@ -7,7 +7,7 @@ namespace DesignPatternCodes.Singleton
     class TestLogger
     {
         
-        static void Main()
+        static void MainProgram() //Change to Main
         {
             var object1 = Logger.Instance;
             var object2 = Logger.Instance;
