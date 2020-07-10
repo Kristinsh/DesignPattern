@@ -1,14 +1,13 @@
-﻿//using System;
-//using DesignPatternCodes.Singleton;
+﻿using System;
+using DesignPatternCodes.Singleton;
 
-//namespace DesignPatternCodes
-//{
-//    class Program
-//    {
-//        static void Main(string[] args)
-//        {
-//            Console.WriteLine("Hello World!");
-//            Console.WriteLine(object1)
-//        }
-//    }
-//}
+namespace DesignPatternCodes
+{
+    class Program
+    {
+        static void MainProgram(string[] args) //Change to Main
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
